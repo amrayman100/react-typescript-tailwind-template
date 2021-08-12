@@ -1,0 +1,11 @@
+{
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false,
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.debug": true,
+    "eslint.lintTask.enable": true
+}
